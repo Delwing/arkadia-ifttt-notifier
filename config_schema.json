@@ -1,0 +1,13 @@
+{
+    "fields": [
+      {
+        "name": "ifttt.token",
+        "default_value": "",
+        "field_type": "string",
+        "macros_on_modify": [
+          "_all"
+        ]
+      }
+    ]
+  }
+  
