@@ -45,7 +45,14 @@ Do wywołania możemy przekzać dodatkowo do trzech zmiennych.
 ifttt:sendEvent(name, value1, value2, value3)
 ```
 
-### Definicja eventu w IFTTT
+### Przykład apletu
+
+https://ifttt.com/applets/stSwB5FN
+Aplet nasłuchuje eventu `arkadia` pod `value1` ma wiadomość, która zostanie wyświetlona w postaci powiadomienia aplikacji IFTTT na telefonie.
+Aplet można dodać do swoich apletów.
+
+
+### Definicja apletu w IFTTT
 
 Klikany `Create`
 
